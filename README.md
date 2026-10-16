@@ -15,8 +15,8 @@ The AI-generated code that exists under my main account generally falls into a
 few categories:
 
 - Scenarios where I see coding as a means to an end, and I don't see a lot of
-  value in spending time figuring out the problem on my own. See my post [_LLM
-  Laundering for Security_][llm-laundering] for one set of examples of this.
+  value in spending time figuring out the problem on my own. See my post "[LLM
+  Laundering for Security][llm-laundering]" for one set of examples of this.
 - Implementing complex algorithms or mathematical calculations, especially
   those that come from research papers where, even if I understand the logic,
   there is a high risk of transcription and/or translation errors.
