@@ -15,8 +15,9 @@ The AI-generated code that exists under my main account generally falls into a
 few categories:
 
 - Scenarios where I see coding as a means to an end, and I don't see a lot of
-  value in spending time figuring out the problem on my own. See my post "[LLM
-  Laundering for Security][llm-laundering]" for one set of examples of this.
+  value in spending time figuring out the problem on my own; see [my attempt to
+  add context-sensitive highlighting to the Python syntax file][syntax-changes]
+  for one such example.
 - Implementing complex algorithms or mathematical calculations, especially
   those that come from research papers where, even if I understand the logic,
   there is a high risk of transcription and/or translation errors.
@@ -25,4 +26,4 @@ few categories:
 
   [disclosure-example]: https://github.com/ericpruitt/emus/blob/0b9602231e8b27f2c48f22d57801d35cb9267e23/configuration/vim/after/syntax/python.vim#L9-L15
   [slopvat]: https://github.com/slopvat
-  [llm-laundering]: https://www.codevat.com/articles/llm-laundering-for-security/
+  [syntax-changes]: https://groups.google.com/g/vim_use/c/BJ4jfiEWR7Q
